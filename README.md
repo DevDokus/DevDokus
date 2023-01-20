@@ -26,8 +26,4 @@
 </div><br>
 
 <p align="center"><img src="assets/Spacer.png" alt="spacer"></p>
-
 <p align="center"><img src="assets/snake.svg" alt="spacer"></p>
-
-
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=224onbjsfriqa2w26q7lza7uq&count=3&width=900)
