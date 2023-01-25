@@ -14,6 +14,8 @@
 <a href="https://www.youtube.com/@dokuscore6480"><img src="https://img.shields.io/static/v1?label=%20&message=YouTube&color=d41211&logo=github&logoColor=white&style=flat-square" alt="Link to Website"></a>
 <a href="https://www.discord.io/dokuscore"><img src="https://img.shields.io/static/v1?label=%20&message=Discord&color=grey&logo=discord&logoColor=white&style=flat-square" alt="Link to Website"></a></p>
 
+<p align="center"><img src="https://profile-counter.glitch.me/devdokus/count.svg" /></p>
+
 ---
 
 <p align="center"><a href="https://github.com/dokuscore"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dokuscore&repo=dokuscore&theme=gotham"></a></p>
