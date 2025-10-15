@@ -7,7 +7,7 @@
 ---
 
 <p align="center"><b>The sky is not the limit, the universe is!</b></p>
-<p align="center"><a href="https://dokuscore.com">
+<p align="center"><a href="https://devdokus.web.app">
 <img src="https://img.shields.io/static/v1?label=%20&message=Website&color=9925be&logo=appveyor&logoColor=white&style=flat-square" alt="Link to Website"></a>
 <a href="https://github.com/dokuscore">
 <img src="https://img.shields.io/static/v1?label=%20&message=Github&color=1199d4&logo=github&logoColor=white&style=flat-square" alt="Link to Website"></a>
