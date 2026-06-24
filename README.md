@@ -19,8 +19,7 @@
 
 ---
 
-<p align="center"><a href="https://github.com/dokuscore"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dokuscore&repo=dokuscore&theme=gotham"></a></p>
-<p align="center"><a href="https://github.com/DokusCore/Server-Prebuild"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dokuscore&repo=server-prebuild&theme=gotham"></a></p>
+<p align="center"><a href="https://github.com/devdokus/fscopilot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=devdokus&repo=fscopilot&theme=gotham"></a></p>
 
 ---
 
